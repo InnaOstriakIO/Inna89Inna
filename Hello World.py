@@ -18,3 +18,8 @@ elif 8 == 8:
 else:
     print("if we have 1 student,The teacher says:", y2)
 
+fruits = ["banana", "coconut", "lemon", "mango"]
+print("we have in the store:", fruits)
+
+
+
